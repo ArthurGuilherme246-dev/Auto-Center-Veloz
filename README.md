@@ -4,7 +4,7 @@ Site da oficina **Auto Center Veloz** com acompanhamento do veículo e aprovaç�
 
 > Todos os dados (clientes, placas, valores) são **fictícios**, criados apenas para demonstração.
 
-**Link publicado:** `https://SEU-USUARIO.github.io/autocenter-veloz/` *(substitua após publicar)*
+**Link publicado:** `https://github.com/ArthurGuilherme246-dev/autocenter-veloz/` 
 
 ## 1. Sobre o projeto
 Site responsivo com páginas institucionais (Início, Serviços, Contato), uma página de **acompanhamento do veículo** para o cliente e uma **área da equipe** com painéis para recepção, mecânicos e gerência.
