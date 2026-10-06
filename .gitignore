@@ -1,0 +1,25 @@
+# Dependências e builds
+node_modules/
+dist/
+build/
+.cache/
+
+# Segredos e credenciais (nunca versionar)
+.env
+.env.*
+*.pem
+*.key
+secrets.*
+credentials.*
+
+# Logs e temporários
+*.log
+*.tmp
+*.swp
+
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
